@@ -11,4 +11,4 @@ Itch.io page: https://grydin.itch.io/bingus-world
 
 ## Assets
 
-The mouse sprite it inspired by this [awesome pixel art by ikoiku](https://ikoiku.itch.io/16-x-16-pixel-art-character-mouse).
+The mouse sprite is inspired by this [awesome pixel art by ikoiku](https://ikoiku.itch.io/16-x-16-pixel-art-character-mouse).
