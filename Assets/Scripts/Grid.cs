@@ -1,10 +1,5 @@
-using System;
 using TMPro;
-using Unity.VisualScripting;
-using UnityEditor.Profiling.Memory.Experimental;
 using UnityEngine;
-using UnityEngine.InputSystem.Editor;
-using UnityEngine.UI;
 using Random = UnityEngine.Random;
 
 public class Grid : MonoBehaviour
