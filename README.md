@@ -1,6 +1,7 @@
 # Wumpus World
 
 A simple implementation of Wumpus World in Unity3D.
+
 Itch.io page: https://grydin.itch.io/bingus-world
 
 ## Future
